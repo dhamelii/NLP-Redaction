@@ -1,0 +1,7 @@
+How to use sys.argv in Pything | https://www.geeksforgeeks.org/how-to-use-sys-argv-in-python/ | Referenced this website to understand how to take the program input and convert it to "if statements" in the redactor file.
+WHAT is "Glob" In Python?! (It's Actually Very Useful!) | https://www.youtube.com/watch?v=tATFQUx0Zx0 | Used this video to understand how to use Glob
+re — Regular expression operations | https://docs.python.org/3/library/re.html | General reference for regular expressions in Python
+NLTK Documentation | https://www.nltk.org/data.html | Referenced this website as I was having issues with NLTK on the VM when I was not seeing the same issue on my local PC
+Udemy: The Complete Python Bootcamp by Jose Portilla | https://www.udemy.com/course/complete-python-bootcamp/learn/lecture/20568984?start=315#overview | General assistance with the Python language
+Eric Matthes | Python Crash Course 2nd Edition | Book I use for in depth Python methods. Specifically used for learning to write methods in Python.
+Jasmine Dehart & Bavya Reddy Kanuganti | Email from April 3 looking for suggestions on how to handle program functionality between VM and personal laptop.

@@ -1,0 +1,22 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+argparse = "*"
+commonregex = "*"
+numpy = "*"
+nltk = "*"
+spacy = "*"
+pytest = "*"
+black = "*"
+gedit = "*"
+nano = "*"
+ipython = "*"
+
+[dev-packages]
+nltk = "*"
+
+[requires]
+python_version = "3.10"
