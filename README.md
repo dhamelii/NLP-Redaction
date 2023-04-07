@@ -17,7 +17,15 @@ PIPENV INSTALL {package_name}.
 -commonregex 
 
 ------------------------------------
+PROJECT FUNCTIONALITY
 
+
+
+https://user-images.githubusercontent.com/120272276/230552543-a4a43f85-2e28-4e15-889e-2b84830352ce.mov
+
+
+
+------------------------------------
 HOW TO RUN PROJECT 1
 
 Add .txt or other text file extensions to the main project folder, cs5293sp23-project1/, in this case that need to be reviewed and
